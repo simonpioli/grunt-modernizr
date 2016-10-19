@@ -36,7 +36,7 @@
     "grunt-contrib-nodeunit": "0.4.1",
     "grunt-contrib-watch": "~0.3.1",
     "mocha": "~1.17.0",
-    "modernizr": "https://github.com/Modernizr/Modernizr/tarball/master",
+    "modernizr": "https://github.com/simonpioli/Modernizr/tarball/master",
     "nexpect": "~0.3.0"
   },
   "scripts": {
